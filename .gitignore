@@ -1,0 +1,5 @@
+*.csv
+*.txt
+*.tar.gz
+*.zip
+*DS_Store*
